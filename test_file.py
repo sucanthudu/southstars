@@ -1,2 +1,3 @@
 z="Hello world"
-print(z)
+for i,l in enumerate(z):
+    print(l)
