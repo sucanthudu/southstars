@@ -4,3 +4,8 @@ for i,l in enumerate(z):
 
 for x in range(10):
     print(x)
+
+def add(x,y):
+    return x+y
+
+print(add(10,10))
